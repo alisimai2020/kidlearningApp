@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/Pineapple"
+            android:title="Pineapple"/>
+
+        <item android:id="@+id/Mango"
+            android:title="Mango"/>
+
+
+        <item android:id="@+id/Orange"
+            android:title="Orange"/>
+
+
+        <item android:id="@+id/Apple"
+            android:title="Apple"/>
+
+        <item android:id="@+id/Banana"
+            android:title="Banana"/>
+
+
+        <item android:id="@+id/Avocado"
+            android:title="Avocado"/>
+
+    </group>
+
+<!--    <item android:title="Profile">-->
+<!--        <menu>-->
+<!--            <group android:checkableBehavior="single">-->
+<!--                <item android:id="@+id/fruit"-->
+<!--                    android:title="profile"/>-->
+
+<!--                <item android:id="@+id/mango"-->
+<!--                    android:title="LOgin"/>-->
+
+
+
+
+<!--            </group>-->
+<!--        </menu>-->
+<!--    </item>-->
+
+
+</menu>
